@@ -12,7 +12,8 @@ Hi I'm "Volodymyr Rozdolsky". Check out my repos!
 |Project Name      |Web Page                                            |Link                                 |
 |------------------|----------------------------------------------- |-----------------------------------------|
 | mtc-backend-prod   | No Page   |[GitHub](https://github.com/rozdolsky33/mtc-backend-prod.git)                                                              |
-| mtc-infra-prod   | [Webpage](https://rozdolsky33.github.io/mtc-infra-prod/)   |[GitHub](https://github.com/rozdolsky33/mtc-infra-prod.git)                                                              |
+| mtc-frontend-prod   | No Page   |[GitHub](https://github.com/rozdolsky33/mtc-frontend-prod.git)                                                              |
+| mtc-infra-prod   | No Page   |[GitHub](https://github.com/rozdolsky33/mtc-infra-prod.git)                                                              |
 
 ---
 
